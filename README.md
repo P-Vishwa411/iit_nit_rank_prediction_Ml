@@ -1,11 +1,16 @@
-IIT NIT Rank Prediction Using Machine Learning
+### IIT NIT Rank Prediction Using Machine Learning
 Project Overview
-This project focuses on predicting the admission ranks for IITs (Indian Institutes of Technology) and NITs (National Institutes of Technology) using machine learning techniques. The model was trained on a dataset comprising five years of historical admission data from Kaggle. The primary objective is to forecast ranks based on various features and historical patterns, providing a valuable tool for prospective students and academic institutions.
+
+This project focuses on predicting the admission ranks for IITs (Indian Institutes of Technology) and NITs (National Institutes of Technology) using machine learning techniques. The model was trained on a dataset comprising five years of historical admission data from Kaggle. 
+The primary objective is to forecast ranks based on various features and historical patterns, providing a valuable tool for prospective students and academic institutions.
 
 Features
 Historical Data: 5 years of admission data including features such as student scores, exam patterns, and ranks.
+
 Predictive Model: Machine learning model trained to predict IIT and NIT admission ranks.
+
 Tools & Technologies: Python, scikit-learn, pandas, Jupyter Notebook.
+
 Dataset
 The dataset used for this project is available on Kaggle and includes:
 
